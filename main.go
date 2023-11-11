@@ -8,6 +8,6 @@ import "fmt"
 func main(){
 
 
-	fmt.Println("This is my first movie API")
+	fmt.Println("This is my first web scrapper")
 	
 }
